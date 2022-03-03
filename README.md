@@ -1,11 +1,9 @@
-<br/>
-<h1 align="center"> Hi 👋, Welcome</h1>
-
-<p align="center">
-  <samp>
+<h1 align="left"> Hi 👋, Welcome</h1>
+<br />
+<samp>
 I'm Yntymak Mederbekov. A Web Developer, Consultant from Bishkek (Kyrgyzstan).
-  </samp>
-  <br/>
+</samp>
+<p align="center">
   <br/>
   <p align=center>
     <img src="https://github-readme-stats.vercel.app/api?username=yntymak77&show_icons=true&hide_border=true" alt="Yntymak Mederbekov Github Stats" />

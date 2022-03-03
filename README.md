@@ -1,5 +1,4 @@
-<h1 align="left"> Hi 👋, Welcome</h1>
-<br />
+# Hi 👋, Welcome
 <samp>
 I'm Yntymak Mederbekov. A Web Developer, Consultant from Bishkek (Kyrgyzstan).
 </samp>

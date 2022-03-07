@@ -37,4 +37,4 @@ Get in touch wit me!
 
 :e-mail: <a href="mailto:egembaev.yntymak@gmail.com">Send an e-mail</a>
 
-:globe_with_meridians: <a href="https://yntymak77.netlify.com">Checkout my website</a>
+:globe_with_meridians: <a href="https://yntymak.netlify.com">Checkout my website</a>

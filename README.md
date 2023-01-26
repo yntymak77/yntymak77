@@ -5,8 +5,8 @@ I'm Yntymak Mederbekov. A Web Developer, Consultant from Bishkek (Kyrgyzstan).
 <p align="center">
   <br/>
   <p align=center>
-    <img src="https://github-readme-stats.vercel.app/api?username=yntymak77&show_icons=true" alt="Yntymak Mederbekov Github Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yntymak77&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda" />
+    <img src="https://streak-stats.demolab.com?user=yntymak77&theme=omni" alt="Yntymak Mederbekov Github Stats" />
+<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yntymak77&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda" /> -->
   </p>
   <!-- <img src="https://activity-graph.herokuapp.com/graph?username=yntymak77&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
 </p>
